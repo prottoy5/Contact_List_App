@@ -1,5 +1,3 @@
-# contact_list_assignment
-
 A new Flutter project.
 
 ## Getting Started
